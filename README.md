@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The repository is made to store the pictures in the blog in case for use.
 
 You can use the [editor on GitHub](https://github.com/jaylencheng/blogimages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
